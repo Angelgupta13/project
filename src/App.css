@@ -1,0 +1,30 @@
+.hero-background {
+  background-image: url('../src/resources/images/img-1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+.background-community-hero{
+  background-image: url('../src/resources/images/img-5.avif');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+background-community-blog{
+  background-image: url('../src/resources/images/img-6.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+.logodiv{
+  height:32px;
+  width:82px;
+  background-image: url('../src/resources/images/logo.jpg');
+  background-size: contain;
+}
